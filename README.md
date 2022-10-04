@@ -44,7 +44,7 @@
 
 ​	实验截图：
 
-![1](https://raw.githubusercontent.com/15305966258/twoapp/main/image/Snipaste_2022-10-04_10-18-34.png)
+![1](https://raw.githubusercontent.com/15305966258/twoapp/main/image/Snipaste_2022-10-04_13-18-34.png)
 
 ## 任务二：利用表格布局实现界面
 
@@ -78,7 +78,7 @@
 
 实验截图：
 
-![2](https://raw.githubusercontent.com/15305966258/twoapp/main/image/Snipaste_2022-10-04_10-18-54.png)
+![2](https://raw.githubusercontent.com/15305966258/twoapp/main/image/Snipaste_2022-10-04_13-18-54.png)
 
 ## 任务三：实现约束布局1
 
@@ -180,4 +180,4 @@
 
 实验截图：
 
-![4](https://raw.githubusercontent.com/15305966258/twoapp/main/image/Snipaste_2022-10-04_10-11-05.png)
+![4](https://raw.githubusercontent.com/15305966258/twoapp/main/image/Snipaste_2022-10-04_13-11-05.png)
