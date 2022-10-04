@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <TextView
+            android:text="Open..."
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ctrl-O"
+            android:textAlignment="textEnd"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Save..."
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ctrl-O"
+            android:textAlignment="textEnd"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+
+    </TableRow>
+
+    <TableRow android:layout_height="76dp">
+        <TextView
+            android:text="Save As..."
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ctrl-O"
+            android:textAlignment="textEnd"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+
+    </TableRow>
+        <View android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#dfdfdf"
+            />
+    <TableRow android:layout_height="76dp">
+        <TextView
+            android:text="X Import..."
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+
+    </TableRow>
+    <TableRow android:layout_height="76dp">
+        <TextView
+            android:text="X Export..."
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ctrl-E"
+            android:textAlignment="textEnd"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"/>
+
+    </TableRow>
+    <View android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dfdfdf"
+        />
+    <TableRow android:layout_height="76dp">
+        <TextView
+            android:text="Quit"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            />
+
+
+    </TableRow>
+</TableLayout>
